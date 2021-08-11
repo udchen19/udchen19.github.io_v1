@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on UD隨筆</title>
+    <link>https://udchen.me/series/</link>
+    <description>Recent content in Series on UD隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    
+	<atom:link href="https://udchen.me/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
