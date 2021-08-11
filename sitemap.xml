@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://udchen.me/</loc>
+    <loc>https://udchen19.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://udchen.me/categories/</loc>
+    <loc>https://udchen19.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://udchen.me/series/</loc>
+    <loc>https://udchen19.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://udchen.me/tags/</loc>
+    <loc>https://udchen19.github.io/tags/</loc>
   </url>
   
 </urlset>
