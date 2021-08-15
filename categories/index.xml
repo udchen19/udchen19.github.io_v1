@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on UD隨筆</title>
-    <link>https://udchen19.github.io/categories/</link>
+    <link>https://udchen.tw/categories/</link>
     <description>Recent content in Categories on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
+    <lastBuildDate>Sun, 15 Aug 2021 21:35:00 +0800</lastBuildDate>
     
-	<atom:link href="https://udchen19.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://udchen.tw/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>weekly</title>
+      <link>https://udchen.tw/categories/weekly/</link>
+      <pubDate>Sun, 15 Aug 2021 21:35:00 +0800</pubDate>
+      
+      <guid>https://udchen.tw/categories/weekly/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

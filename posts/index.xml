@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UD隨筆</title>
-    <link>https://udchen.tw/</link>
-    <description>Recent content on UD隨筆</description>
+    <title>Posts on UD隨筆</title>
+    <link>https://udchen.tw/posts/</link>
+    <description>Recent content in Posts on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sun, 15 Aug 2021 21:35:00 +0800</lastBuildDate>
     
-	<atom:link href="https://udchen.tw/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://udchen.tw/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
