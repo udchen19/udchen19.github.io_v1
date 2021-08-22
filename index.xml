@@ -6,10 +6,19 @@
     <description>Recent content on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 15 Aug 2021 21:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 17:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://udchen.tw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Look on TOEFL iBT</title>
+      <link>https://udchen.tw/posts/firstlookontoefl/</link>
+      <pubDate>Sun, 22 Aug 2021 17:00:00 +0800</pubDate>
+      
+      <guid>https://udchen.tw/posts/firstlookontoefl/</guid>
+      <description>&lt;p&gt;&amp;emsp;&amp;emsp;前兩週看同學在準備TOEFL，問了才知道四下的交換這學期末就要丟了，所以決定也差不多該來準備考試了。問了我的英文外師Amar後，他推薦了一本模擬題然後叫我練練看。昨天早上寫掉一回模測了，托福在各種方面來說算是風格蠻不一樣的考試。以下大概是我對各個部分的看法還有個人檢討。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>First Article and Why</title>
@@ -17,24 +26,11 @@
       <pubDate>Sun, 15 Aug 2021 21:35:00 +0800</pubDate>
       
       <guid>https://udchen.tw/posts/firstpostandwhy/</guid>
-      <description>&amp;emsp;&amp;emsp;2021年8月15日。我用Hugo在Github上架了「UD隨筆」，寫完了第一篇文章。
-&amp;emsp;&amp;emsp;等等，code寫得好好的怎麼突然開始寫Blog？
-&amp;emsp;&amp;emsp;今天是個特別的日子，容我從11年前講起&amp;hellip;
-&amp;emsp;&amp;emsp;2010年8月15日，我在晚上9點35分搭上BR68號班機，離開久居四年的倫敦。雖然高中之後很少再提這段在英國的經歷了，但我不否認那四年相對開明的教育和經驗對我個人價值觀或想法上的影響。它應該也能解釋我那還可以的英文，還有不太行的中文XD。
-&amp;emsp;&amp;emsp;那，接下來這11年呢？回臺灣後，我如同多數的人把時間放在學科上。課業以外的時間，國小玩樂高機器人參加WRO，國中跟著班上參加各種數學競賽，上了高中則改行打競程。我投入了不少心力，帳面表現不錯，也都蠻有收穫的。
-&amp;emsp;&amp;emsp;但最近的我開始感受到一些副作用。
-&amp;emsp;&amp;emsp;課外活動看似跟學業不一樣，但其實都是比誰分數高的競賽。相當投入的人永遠在鑽研怎麼做得更好，花費時日就只為了一個瞬間。讀一年的學測，只為了錄取通知單上出現理想的大學；多次修正機器人的程式和架構，只為了比賽的2分鐘順利跑出滿分；&amp;rdquo;code for six minutes, debug for six hours&amp;rdquo;，只為了一次AC。
-&amp;emsp;&amp;emsp;老實說這樣追求卓越沒有錯，把一件事做到好這是必經的過程。但如果生活只有這件事，那就有問題了。
-&amp;emsp;&amp;emsp;我從&amp;rdquo;比較重視&amp;rdquo;競賽變成&amp;rdquo;只有重視&amp;rdquo;競賽，對生活中的其他事物漸漸地一無所知。學業以外的大部分時間都投入在課外比賽上，當然也就沒有發展個人的嗜好，沒有在社交，沒有關注外面的世界。
-&amp;emsp;&amp;emsp;這所帶來的後果，常在許久以後才突然驚覺。我自己是個對機器學習領域頗感興趣的人，所以我知道當不賦予AI模型目標時，它就形同死屍。上了大學，當學業不再是重點，也對打競程不再那麼熱衷時，一個問題變得顯眼：所以我之後要做什麼？除了學業跟比賽，其他的東西都沒聽過，我TMD怎麼會知道！這樣的我，根本就是台在學習的機器吧。
-&amp;emsp;&amp;emsp;所以11年過去有什麼不一樣的地方？雖然不能流利對嗆，但顯然我的中文學起來了。13年(有點複雜，但是13年沒錯)國教下來也學了不少知識，小時候數學和資訊競賽的經驗也讓我在資工系的學習上不那麼費力。但我可能最需要的，是11年前那個不受競賽規則框架的創意，跟視野還算遼闊時的好奇心。
-&amp;emsp;&amp;emsp;那我打算怎麼做？觀察是創意跟好奇心的根源，所以我想從多關注身邊的事物開始，問更多的問題，做更深入的思考，試圖理解得更多；這兩年我也獲得了書寫所學的機會，也發現這個過程能引導人反省自己的知識跟想法是否正確。因此我認為把盡力觀察並記錄下來是個不錯的方法。發在社群媒體上的人際壓力太大了，內容也會有所顧忌，所以決定結合另一個個人目標──架網站，並與目標相似的Y同學和B學弟模索Hugo後，「UD隨筆」就誕生了。
-&amp;emsp;&amp;emsp;我計畫在這篇部落格以一週至少一篇的頻率以中英雙語發文(等某天我日文練起來或許可以三語？)，可能是跑步或騎車的運動紀錄，也可能是看完書或電影的想法，或是過去經歷的感想。可能不一定每篇都這麼常，但我希望自己每週能把不同類型的內容帶到「UD隨筆」上。如果我沒有能直接搬上來的內容，那也是我過得太空洞無聊的提醒，大概能刺激我去嘗試不同的事物吧XD。
-&amp;emsp;&amp;emsp;或許幾年後我還是不知道未來要做什麼，但至少知道的東西更多，會有點方向吧。
-English Version &amp;emsp;August 15, 2021. I used Hugo to publish the blog &amp;ldquo;UD&amp;rsquo;s Essay&amp;rdquo; and here you have the first article.
-&amp;emsp;&amp;emsp;Wait, why start blogging? Don&amp;rsquo;t you have coding to do?
-&amp;emsp;&amp;emsp;Today&amp;rsquo;s a special day, allow me to start 11 years ago&amp;hellip;
-&amp;emsp;August 15, 2010. I boarded BR68 at 9:35pm and left London, the city I stayed for four years.</description>
+      <description>&lt;p&gt;&amp;emsp;&amp;emsp;2021年8月15日。我用Hugo在Github上架了「UD隨筆」，寫完了第一篇文章。&lt;/p&gt;
+
+&lt;p&gt;&amp;emsp;&amp;emsp;等等，code寫得好好的怎麼突然開始寫Blog？&lt;/p&gt;
+
+&lt;p&gt;&amp;emsp;&amp;emsp;今天是個特別的日子，容我從11年前講起&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>
