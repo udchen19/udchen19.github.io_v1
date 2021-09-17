@@ -6,11 +6,7 @@
     <description>Recent content in books on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 30 Aug 2021 14:10:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://udchen.tw/tags/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Aug 2021 14:10:00 +0800</lastBuildDate><atom:link href="https://udchen.tw/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books I read in Summer 2021</title>
       <link>https://udchen.tw/posts/bookssummer2021/</link>

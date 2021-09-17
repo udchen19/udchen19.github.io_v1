@@ -1,73 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://udchen.tw/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/tags/books/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/posts/bookssummer2021/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/categories/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/posts/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/tags/summer/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/tags/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/categories/weekly/</loc>
     <lastmod>2021-08-30T14:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/posts/firstlookontoefl/</loc>
     <lastmod>2021-08-22T17:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/tags/toefl/</loc>
     <lastmod>2021-08-22T17:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/posts/firstpostandwhy/</loc>
     <lastmod>2021-08-15T21:35:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/tags/intro/</loc>
     <lastmod>2021-08-15T21:35:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/cv/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://udchen.tw/series/</loc>
   </url>
-  
 </urlset>

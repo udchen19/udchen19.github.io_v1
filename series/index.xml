@@ -5,10 +5,6 @@
     <link>https://udchen.tw/series/</link>
     <description>Recent content in Series on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    
-	<atom:link href="https://udchen.tw/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-TW</language><atom:link href="https://udchen.tw/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

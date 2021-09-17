@@ -5,10 +5,6 @@
     <link>https://udchen.tw/cv/</link>
     <description>Recent content on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    
-	<atom:link href="https://udchen.tw/cv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-TW</language><atom:link href="https://udchen.tw/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
