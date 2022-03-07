@@ -250,10 +250,10 @@ a.sidebar-nav-item:focus {
 }
 
 /* UD */
-.theme-base-0f .sidebar {
+.theme-base-ud .sidebar {
   background-color: #001735;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
+.theme-base-ud .content a,
+.theme-base-ud .related-posts li a:hover {
   color: #001735;
 }
