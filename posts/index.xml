@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on UD隨筆</title>
+    <title>UD隨筆</title>
     <link>https://udchen.tw/posts/</link>
-    <description>Recent content in Posts on UD隨筆</description>
+    <description>Recent content on UD隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 19 Feb 2022 03:20:00 +0800</lastBuildDate><atom:link href="https://udchen.tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 20:00:00 +0800</lastBuildDate><atom:link href="https://udchen.tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kapito Inc. Internship, Summer 2022</title>
+      <link>https://udchen.tw/posts/kapitointern2022/</link>
+      <pubDate>Sat, 17 Sep 2022 20:00:00 +0800</pubDate>
+      
+      <guid>https://udchen.tw/posts/kapitointern2022/</guid>
+      <description>這篇有點久了，但下工至今趕了一波實驗室paper後，總算是可以在開學地獄前靜下來寫點東西。這是我第一次實習，無論是有些學到看到的東西想做個紀</description>
+    </item>
+    
     <item>
       <title>Stolen Focus: Why You Can&#39;t Pay Attention--and How to Think Deeply Again 讀後感</title>
       <link>https://udchen.tw/posts/reflectiononattention/</link>
@@ -24,10 +33,10 @@
       <guid>https://udchen.tw/posts/bookssummer2021/</guid>
       <description>&lt;p&gt;  好，我知道，星期一。正式拖稿。下次星期六就該寫了。&lt;/p&gt;
 &lt;p&gt;  昨天我整理了行李，從家裡回到交大的宿舍。整體來說，我這個暑假最大的收穫是什麼？&lt;/p&gt;
-&lt;p&gt;出去玩？拜託，防疫規定欸。
-運動減重？沒，我可能還生了&amp;quot;重&amp;quot;病。
-coding？不，我感覺沒怎麼寫code。
-電影影集？我好像也沒看多少。
+&lt;p&gt;出去玩？拜託，防疫規定欸。&lt;br&gt;
+運動減重？沒，我可能還生了&amp;quot;重&amp;quot;病。&lt;br&gt;
+coding？不，我感覺沒怎麼寫code。&lt;br&gt;
+電影影集？我好像也沒看多少。&lt;br&gt;
 戒掉社群媒體？好吧，這之後再講。&lt;/p&gt;
 &lt;p&gt;這個暑假比較特別的，大概是書看比較多吧。&lt;/p&gt;</description>
     </item>
